@@ -1,0 +1,1900 @@
+POLICY FRAMEWORK FOR INVESTMENT USER’S TOOLKIT
+
+Chapter 5. Tax Policy
+
+Introductory note
+The Policy Framework for Investment (PFI) User’s Toolkit project responds to a need for specific and
+practical implementation guidance building on the experience of the countries that have already
+piloted or are planning to pilot the PFI.
+The Toolkit was developed with the involvement of government users, in co-operation with other
+organisations, OECD committees with specialised expertise in the policy areas covered by the PFI
+and interested stakeholders.
+This document is a revised draft of the guidance relating to Chapter 5 of the PFI on Tax Policy.
+Underlined text in this document represents links which will be activated in the final web version.
+The PFI User’s Toolkit is purposely structured in a way that is amenable to producing a web-based
+publication. A web-based format: is a flexible approach for providing updates and additions; allows
+PFI users to download only the guidance relevant to the specific PFI application they are
+implementing; includes a portal offering users more detailed resources and guidance on each PFI
+question. The website is accessible at www.oecd.org/investment/pfitoolkit.
+
+© OECD – 2013. A publication of the Investment Division of the OECD Directorate for Financial and Enterprise Affairs. OECD freely authorises the use of
+this material for non-commercial purposes. All requests for commercial use or translation of this material should be submitted to investment@oecd.org.
+This work is published on the responsibility of the Secretary-General of the OECD. The opinions expressed and arguments employed herein do not
+necessarily reflect the official views of the Organisation or of the governments of its member countries.
+This document and any map included herein are without prejudice to the status of or sovereignty over any territory, to the delimitation of international
+frontiers and boundaries and to the name of any territory, city or area.
+
+Tax Policy
+A country’s tax regime is a key policy instrument that may negatively or positively
+influence investment. Tax Policy in the PFI relates to the formulation of a tax
+strategy which is supportive to investment. It covers the advantages and
+disadvantages of alternative tax policy choices in meeting the twin goals of offering
+a tax system attractive to investment, while at the same time raising revenues to
+support the key pillars of a business-enabling environment, such as infrastructure. A
+poorly designed tax system, where the rules and their application are nontransparent, overly complex or unpredictable, may discourage investment adding to
+project costs and uncertainty. Systems that leave excessive administrative
+discretion in the hands of tax officials tend to invite corruption and undermine good
+governance objectives fundamental to securing an attractive investment
+environment. Policy makers are therefore encouraged to ensure that their tax
+system imposes an acceptable tax burden that can be accurately determined, and
+which keeps tax compliance and tax administration costs in check.
+This chapter seeks to assist countries in understanding the bottlenecks within their
+current tax system and to propose changes to improve the efficiency of the system
+in terms of its ability to mobilise revenue on the one hand and attract the right kind
+of investment on the other. It identifies the nine most important questions relevant
+for judging the effectiveness of a country’s tax policies and practices and offers
+specific guidance in formulating a tax policy strategy which is supportive to
+investment. The nine PFI questions on tax policy relate to:
+
+
+the consistency of a country’s tax burden with its broader development
+objectives;
+
+
+
+an evaluation of the actual tax burden on domestic profits;
+
+
+
+a comparison of the actual versus the target tax burden;
+
+
+
+understanding the potential tax effects on investment;
+
+
+
+an evaluation of tax distortions to investment;
+
+
+
+the determination of taxable income;
+
+
+
+accounting for unintended tax incentive effects;
+
+
+
+tax expenditure reporting;
+
+
+
+international tax co-operation.
+
+2
+
+Consistency of tax burden with broader development
+objectives
+5.1. Has the government evaluated the level of tax burden that would be consistent
+with its broader development objectives and its investment attraction strategy? Is this
+level consistent with the actual tax burden?
+
+Rationale for the question
+Behind this question lies a central trade-off facing policy makers – by reducing taxes
+on host country investment and subsidising investors, revenues are forgone that
+could be used to build infrastructure, improve labour skills, strengthen governance
+and address other elements of the business environment that in many country
+contexts are the real impediments to investment. Given the country’s overall fiscal
+policy position and objectives, policy makers should consider whether the actual tax
+burden imposed on the economy is appropriate, or whether it should be adjusted in
+order to attract additional investment, discourage capital flight and swing location
+decisions in the country’s favour.
+
+Key considerations
+Most would agree that a host country tax burden that is very high relative to other
+countries generally discourages investment and could, in certain cases, be a
+deciding factor for not investing or reinvesting in a particular host country. A more
+difficult issue is when, under which circumstances, can a relatively low host country
+tax burden (e.g. reduced statutory tax rates or tax incentives) be expected to
+attract additional investment?
+Investors are generally willing to accept a higher host country tax burden if the
+country offers attractive business-enabling and market conditions, a stable
+framework, and above all, host country location-specific profit opportunities.
+Indeed, in principle, the tax burden on location-specific profit could be increased up
+to the point where economic profit is exhausted without discouraging investment.
+Thus, where an economy offers an abundance of location-specific profit
+opportunities, policy makers may understandably resist pressures to adopt a
+relatively low tax burden, to avoid tax revenue losses.
+In the context of economic profit that is not location-specific, comparisons of tax
+burdens in competing locations would be expected to be factored in. If a given
+business activity can be carried out in a competing location with a lower rate than
+that in the host country, then, in theory, investors would be unwilling to bear a tax
+burden in the host country above that rate. On the other hand, if the competing
+low-burden location does not offer an attractive business infrastructure and stable
+
+3
+
+macroeconomic environment, investors may be willing to pay a higher tax burden in
+the host country without being tempted to invest elsewhere.
+Where the investment conditions in a given location are on balance more attractive
+than those elsewhere, the question arises as to how much higher the tax burden
+may be set without significantly impacting investment. And if investment is
+expected to decline, at what rate and in what sectors?
+
+Policy practices to scrutinise
+A central challenge for policy makers aiming to encourage domestic and foreign
+direct investment is carefully weighing the relative advantages and disadvantages of
+alternative tax policy choices that would be attractive to investment. Global
+experience and analysis show that tax incentives are one of many, and sometimes
+not the most important, factors of potential investment. Critically important to
+potential investors are questions over costs and risks associated with
+macroeconomic and enabling-environment conditions; access to capital; cost of
+compliance with laws, regulations and administrative practices; and securing
+location-specific profit opportunities. Therefore, the following criteria must be
+carefully considered in setting or evaluating the level of a country’s tax burden.
+Framework
+conditions
+
+Political and monetary stability: Investors require stability for
+planning purposes. How stable is the political system? How
+stable are the monetary system and fiscal framework and
+what is the accumulated public debt? What are expectations
+over future inflation, interest and exchange rates?
+State of infrastructure: What is the state of the host
+country’s infrastructure covering transport (airports,
+seaports, rail systems, roads), telecommunications
+(phone/Internet services) and other services important to
+business? Are private costs of using/purchasing
+infrastructure services high relative to competing
+jurisdictions?
+Simplicity and cost of compliance: The tax system should
+display a high degree of transparency and clarity. How
+significant are the costs and risks to business associated
+with the complexity of all tax codes and their accompanying
+rules, regulations and procedures? In what areas is public
+governance weak and where is corruption a problem? Is the
+cost of tax administration compliance relatively low?
+Tax system stability. Although revisions in the code to
+accommodate both changing economic circumstances and
+
+4
+
+taxpayer practices are to be expected, the main body of the
+tax law should remain relatively stable over time. Is the tax
+system stable or prone to revisions? Does the tax system
+avoid fluctuations due to an over-dependence on too few
+types of taxes? At the same time, is the total number of
+taxes limited to avoid complications and burdens on
+taxpayers that might otherwise occur?
+Market
+characteristics
+
+Considerations of market demand and supply are also
+centrally important to investors, including:
+Market size: What is the size of the domestic market? How
+large is the domestic consumer market (number of
+households, average level and distribution of per capita
+income)? How large is the domestic producer market
+(number of firms, asset size, input requirements)? How large
+and accessible are markets in other (e.g. neighbouring)
+countries?
+Labour market conditions: What labour force skills are
+available in the host country and what employee benefits
+(e.g. social security) are provided by the state? Are labour
+costs (wages plus mandatory employer social security
+contributions) high relative to competing jurisdictions?
+
+Prevalence of
+location-specific
+profits
+
+For many, if not most, investments, the levels of profit and
+risk associated with undertaking a given business activity
+may vary significantly across alternative locations and may,
+in certain cases, be “location specific” – that is, may require
+a physical presence in a particular location. Location-specific
+activities include privatisations, the extraction of natural
+resources and the provision of restaurant and hotel services.
+In such cases, if profits can be expected at levels of risk that
+investors are willing to assume, the profits are locationspecific – that is, they cannot be realised by locating in
+another country or jurisdiction. A central question for
+investors is how location-specific are the potential profits
+and risk of a given host country? Is the tax burden of a host
+country highly relevant to an investment decision? How
+much higher may the tax burden be set without significantly
+impacting investment? If investment is expected to decline,
+which sectors will be the most affected?
+
+5
+
+Resources for further study
+For further reading on optimal taxation and how to minimise the excess burden of
+taxation, see:
+
+
+Matthews, S. (2011), “What is a Competitive Tax System?”, OECD Taxation
+Working Papers, No. 2, OECD Publishing.
+
+
+
+Brys, B. (2011), “Making Fundamental Tax Reform Happen”, OECD Taxation
+Working Papers, No. 3, OECD Publishing.
+
+
+
+OECD (2008), “Tax Effects on Foreign Direct Investment”, Policy Brief,
+February, OECD Publishing.
+
+
+
+Auerbach, Alan J. (1985), “The Theory of Excess Burden and Optimal
+Taxation”, in: Alan J. Auerbach and Martin Feldstein (eds.), Handbook of
+Public Economics, Vol. 1, North-Holland, Amsterdam, pp. 61-127.
+
+6
+
+Evaluation of the actual tax burden on domestic profits
+5.2. What is the average current tax burden on domestic profits, taking into account
+statutory provisions, tax-planning opportunities and compliance costs?
+
+Rationale for the question
+Policy makers should regularly assess the tax burden on profits to determine if the
+tax system is supportive of investment without forgoing tax revenue that could be
+used to fund public expenditure on infrastructure or other areas of critical
+importance to investors. The main statutory provisions as well as the effects of taxplanning strategies increasingly used by businesses to lower the tax burden (e.g.
+transfer pricing, thin capitalisation) should be taken into account. Compliance costs
+from excessive complexity, non-transparency and unpredictability should also be
+factored in. If the tax burden on business income is judged to be inappropriate,
+either too high in order to attract investment or too low in relation to the country’s
+revenue needs, consideration should be given to adjusting the parameters of the
+statutory tax burden.
+
+Key considerations
+Policy analysts have various measures available to assess the tax burden on business
+profit and the tax disincentive for investment.
+
+
+
+
+Statutory tax rates are the most visible and often-cited measure of the tax
+burden. These rates are relevant because they have an important signal
+function to investors and are commonly used in cross-country comparisons
+as an important factor in the decision-making process for new investment.
+Backward-looking indicators, using historical data. Two backward-looking
+indicators are commonly used, the corporate tax-to-GDP ratio and the
+average tax rate.
+a. Tax-to-GDP ratio measures the actual corporate tax revenues in
+relation to gross domestic product and is the main aggregate
+indicator used by policy analysts.
+b. Average tax rate measures the ratio of business tax revenue to
+corporate profit and is usually calculated based on micro-level firmspecific data.1 The use of micro-data allows for a measure of the tax
+
+1. The average tax rate could be calculated using aggregate data; however, when assessed
+on the aggregate level, the indicator poses certain measurement and interpretation
+issues, such as, for example, a mismatch of numerator and denominator in relation to the
+treatment of business losses and foreign income.
+
+7
+
+burden on the economy-wide level as well as disaggregated by firm
+size, sector, location or ownership structure.
+
+
+Forward-looking effective tax rate indicators. The tax burden on business
+income may be assessed using forward-looking, parameter-based indicators
+(marginal and average effective tax rates) that capture the net effect of
+basic statutory tax provisions.
+a. Marginal effective tax rate (METR) summarises the effect of the
+complicated tax code on an incremental investment and shows the
+impact of the tax system on the investor’s decision to infuse capital
+into the business.
+b. Average effective tax rate (AETR) is a more general tax burden
+indicator in that it shows the effect of the tax regime not only on the
+incremental increase in investment like the METR but the effect of
+the tax regime on a total investment project as well.
+
+Basic measures of the tax burden on business income do not specifically address
+tax-planning strategies of resident multinational firms to lower host country tax.
+Nor do they account for the costs to business of complying with the tax system,
+including costs associated with registration, completing and filing tax returns, and
+tax audits. Therefore, it is necessary to adjust the tax burden estimates to take tax
+planning and compliance costs into account in order to better gauge the “true” tax
+burden on business. Understanding the effects of multinational tax planning and
+compliance costs may lead to a reassessment of the appropriate tax policy and may
+encourage a greater focus on lowering compliance costs as a way of lowering the
+tax burden in the host country.
+
+Policy practices to scrutinise
+Each commonly used tax burden measure varies in terms of relevance, data
+intensity and complexity of use. More importantly, as each measure has its
+limitations for reflecting the true burden of the tax system on businesses, policy
+analysts must exercise care when interpreting the results.
+Statutory tax rates
+
+As the data is readily available, statutory tax rates are easy to
+use as a tax burden measure and can be applied to compare
+tax burdens across different time periods and in cross-country
+analysis. However, as many would be quick to point out,
+statutory rates tell an incomplete story. The effective tax on
+investment is usually lower than that suggested by nominal
+rates due to specific provisions in the tax legislation, such as
+tax incentives to promote investment.
+
+8
+
+Backward-looking
+measures, using
+historical data
+
+Tax-to-GDP ratio. The main aggregate indicator used by
+policy makers worldwide to measure the significance of
+corporate taxes is the corporate tax-to-GDP ratio, which
+shows the share of total corporate tax revenues in gross
+domestic product. While relevant in policy analysis, this
+indicator could lead to ambiguous conclusions. The
+corporate tax-to-GDP ratio depends on the degree of
+incorporation in the country, which may vary over time. This
+variation could mislead policy analysts by implying that the
+tax burden has changed even when the corporate tax policy
+remained the same.
+Average tax rate, expressed as the ratio of actual tax
+revenues to total corporate profits, using historical, firmspecific financial data, offers a more precise measure of the
+tax burden. Since actual revenue figures are used, the
+effects of statutory tax provisions – income tax rates, tax
+deductions, tax credits – and the effects of tax planning, as
+well as tax relief from lax or discretionary administrative
+practice, are taken into account. Moreover, the use of firmspecific, micro-level data permits the analysis of the tax
+burdens for various taxpayer groups with different taxpayer
+characteristics relevant to policy analysis, for example, for
+various sizes of firms, ownership structures, sectors or
+locations.
+
+Forward-looking
+effective tax rates
+
+Backward-looking tax burden indicators are measured with
+a time lag due to the reporting delay of National Accounts
+and revenue statistics data. This consideration increases
+interest in forward-looking tax burden measures, which only
+require readily-available tax parameter information which
+can be found in tax legislation and regulations. As such,
+forward-looking measures are easily used by policy analysts
+in assessing the tax burden implications of current or
+planned tax reform.
+The marginal effective tax rate (METR) allows policy
+analysts to assess the impact of the various tax incentive
+measures on the rate of return for representative
+investment projects (at the margin). The METR assesses the
+amount of tax that arises when a firm decides to undertake
+an incremental unit of activity. A positive METR is an
+indicator of an activity that is discouraged by the tax system;
+
+9
+
+a negative METR is an indicator of an activity that is
+encouraged by the tax system. A zero METR indicates that
+the tax system is neutral to the activity. The METR measures
+the net effect of the main statutory provisions in
+determining effective tax rates by type of capital asset
+(machinery and equipment, buildings, inventories,
+intangibles) and by investor type (taxable resident, taxexempt resident, non-resident). Such measures may be
+finessed by factoring in the effects of tax-planning
+strategies employed in the host country to strip out taxable
+profits (e.g. thin capitalisation, non-arm’s length transfer
+prices) to tax havens. Annex 5.1 presents the standard
+methodology for calculating METRs.
+The average effective tax rate (AETR). Many investment
+decisions are discrete rather than marginal in nature. For
+example, multinational firms may face a choice between
+alternative locations for investment. In making a mutually
+exclusive location decision, the firm will choose the location
+that offers the highest post-tax profit. The tax-burden effect
+on this decision can be measured by the extent to which the
+pre-tax profit is reduced by taxation as reflected by the
+AETR. Conditional on this location choice, the scale of the
+investment will be determined by the METR. Annex 5.2
+presents the standard methodology for calculating AETRs.
+Tax burden measures
+adjusted for tax
+planning
+
+Two approaches may be used to gauge the effects of
+corporate tax planning on the tax burden of firms.
+
+
+One approach adjusts the denominator (profit
+measure) of a backward-looking average tax rate.
+While the numerator of a basic average tax rate
+measure includes actual tax paid inclusive of tax
+planning, the denominator domestic profit measure
+may understate the “true” profit amount. A
+measure of true profit would include profit on
+business activity that is “artificially” shifted offshore
+by various means.2 It is useful for policy makers to
+consider adjusted average tax rate estimates that
+
+2. Possible means include the use of non-arm’s length transfer prices on cross-border goods
+and service transactions with related affiliates, and (arm’s length or non-arm’s length)
+interest payments on inter-affiliate debt provided directly or indirectly by tax haven
+finance affiliates.
+
+10
+
+factor in common forms of tax planning.
+
+
+Tax burden measures
+adjusted for
+compliance cost
+
+Another
+approach
+adjusts
+forward-looking
+parameter-based METR and AETR to capture the
+effects of various forms of commonly employed
+corporate tax planning strategies. Chapter 5 of the
+OECD’s Tax Policy Study No. 17, Tax Effects on
+Foreign Direct Investment: Recent Evidence and Policy
+Analysis, provides an excellent guide for calculating
+METRs and AETRs that includes a number of taxplanning structures, such as thin capitalization of
+high-taxed subsidiaries, deferral of home country
+tax, use of “triangular” structures involving the use
+of tax haven finance affiliates, and the use of hybrid
+entities and hybrid instruments.
+
+Too often, policy makers ignore the qualitative side of tax
+burden analysis. However, depending on the degree and
+sources of complexity, transparency and predictability of the
+given tax system, the tax compliance burden could be quite
+significant. Most recently, the usage of published
+international indicators, notably the World Bank’s Doing
+Business Indicators (DBI), has grown in significance. While
+the limitations of the DBI are widely recognised and
+discussed, they can be utilised as a broader measure of
+business compliance costs. If resources and time permit, a
+dedicated, well-tailored tax compliance cost survey could
+provide policy makers with a wealth of information by
+identifying the most onerous legislative and regulatory
+provisions, from the business compliance cost perspective.
+Survey estimates of the total number of hours required to
+comply with the business tax system, combined with
+estimates of the value (cost) of each hour devoted, may be
+included in the calculation of the total tax burden.
+
+Resources for further study
+
+
+For a detailed discussion of the various measures of tax burdens that assess
+the impact of taxes on economic activity, see OECD (2000), Tax Burdens:
+Alternative Measures, OECD Tax Policy Studies, No. 2, OECD Publishing.
+
+11
+
+
+
+For use of micro-, taxpayer-level data in measuring average tax rates, see
+OECD (2003), Using Micro-data to Assess Average Tax Rates, OECD Tax Policy
+Studies, No. 8, OECD Publishing.
+
+
+
+For the methodology for calculating the marginal effective tax rate (METR),
+including data underlying the computations, see McKenzie, K.J., M. Mansour
+and A. Brûlé (1998), “The Calculation of Marginal Effective Tax Rates”,
+Working Paper, Vol. 97, No. 5, Technical Committee on Business Taxation,
+Department of Finance, Canada.
+
+
+
+For a detailed discussion of the AETR, investigating the role of taxation in
+cases where an investor faces a choice between two or more mutuallyexclusive projects, see Devereux, Michael P. and Rachel Griffith (1998), “The
+Taxation of Discrete Investment Choices”, Institute for Fiscal Studies Working
+Paper Series, No. W98/16.
+
+
+
+For a discussion of forward-looking tax burden measures adjusted for tax
+planning, see OECD (2007), Tax Effects on Foreign Direct Investment: Recent
+Evidence and Policy Analysis, Tax Policy Studies, No. 17, OECD Publishing.
+
+
+
+For evidence on the scale of tax-planning activity, see Altshuler, R. and H.
+Grubert (2006), “The Role of Governments and MNCs in the Race to the
+Bottom”, Tax Notes International, Vol. 41, No. 5, pp. 459-474.
+
+
+
+For a discussion on how to construct measures of effective tax rates that
+reflect opportunities for various multilateral strategies, see Grubert, Harry
+(2004), “The Tax Burden on Cross-Border Investment: Company Strategies
+and Country Responses”, in: Measuring the Tax Burden on Labor and
+Capital, edited by Peter Birch Sorense, MIT Press (CESifo Seminar Series),
+Cambridge, Massachusetts, pp. 129-170.
+
+12
+
+Comparison of actual versus target tax burden
+5.3. Is the tax burden on the business enterprises of investors appropriate with
+reference to the policy goals and objectives of the tax system?
+
+Rationale for the question
+In choosing the tax burden to levy on domestic profit, the analysis should weigh the
+various objectives guiding overall tax policy design, including efficiency concerns,
+equity, simplicity and stability, and revenue requirements.
+
+
+Efficiency: The efficiency concern of a tax system calls for as little
+interference as possible with the market incentives for investment. This
+objective is often equated with low statutory and effective tax rates, broad
+tax bases and little or no differentiation across economic activities or
+industries.
+
+
+
+Equity: Equity concerns generally call for an equal sharing of the tax burden
+across different taxpayers with roughly the same income or purchasing
+power. Fairness implies equal taxation of equal incomes (horizontal equity)
+and higher taxation of higher incomes (vertical equity).
+
+
+
+Simplicity and stability: The tax code should display a high degree of
+transparency and clarity. Further, investors require stability for planning
+purposes. Although revisions in the code to accommodate both changing
+economic circumstances and taxpayer practices are to be expected, the
+main body of the tax law should remain relatively stable over time.
+
+
+
+Revenue requirement: The tax system should generate adequate revenue
+(recognising that adequacy is not easily defined) at marginal tax rates low
+enough to avoid discouraging economic activity.
+
+Different goals will most likely suggest different tax burden levels. Harmonising
+various competing objectives is never an easy, but always a carefully balancing, act.
+
+Key considerations
+Tax officials should regularly assess the tax burden on investment, alongside
+analyses of tax revenues, as part of an ongoing assessment of the ability of the tax
+system to meet competing policy goals and objectives. The assessment must take
+into account the broader administrative, institutional and political considerations,
+such as:
+
+
+Administrative factors: Tax avoidance and evasion opportunities, and the
+costs of compliance, administration and enforcement.
+
+13
+
+
+
+Institutional factors: The transitional costs of changing the tax system and
+complex implementation, legal and administrative issues.
+
+
+
+Political economy factors, such as election-related issues, including its timing.
+For example, politicians may use the tax system to favour particular interest
+groups and increase their probability of re-election.
+
+If the existing tax burden on business income is judged to be inappropriate, policy
+consideration may be given to adjusting the provisions of the statutory tax burden,
+e.g. through some combination of adjustment to the statutory corporate tax rate,
+rates of depreciation for tax purposes or other measures.
+
+Policy practices to scrutinise
+Choice over an appropriate tax burden on investment, shaped by balancing various
+considerations, may begin with a fixed overall revenue requirement (to fund a given
+set of public expenditures). Given revenue requirements, policy makers would
+normally rely on a mix of taxes to meet those needs. The tax mix will include both
+direct and indirect taxes, including taxes on income and profits, taxes on property
+and wealth, consumption taxes, trade and other taxes.
+The sensitivity of investment to taxation will be one of the determining factors in
+choosing the appropriate tax burden. When sensitivity to taxation is high, generally
+lower levels of taxation would be called for to discourage capital flight and nonreporting. Similarly, if the level of underground activity is significant and contributes
+negatively to the development potential of the country, drawing non-compliant
+firms into the tax net may require reducing the tax burden on unincorporated
+businesses, for example through more generous treatment of business losses or
+simplified tax rules that both reduce compliance costs and lower the effective rate
+of tax.
+On the other hand, policy makers may be motivated to increase the tax burden on
+business by unwinding incentives found to be inefficient or strengthening tax base
+protection measures that guard against aggressive tax planning, to increase tax
+revenues available to help finance infrastructure projects important to business.
+
+Resources for further study
+For further reading on the various economic and political considerations that drive
+policy decisions on the level of tax burden, see:
+
+
+OECD (2010), Choosing a Broad Base – Low Rate Approach to Taxation, Tax
+Policy Studies, No. 19, OECD Publishing.
+
+
+
+OECD, “Tax and Economic Growth”, Economics Department Working Paper,
+No. 620, ECO/WKP(2008)28, OECD Publishing.
+
+14
+
+Understanding potential tax effects on investment
+5.4. If framework conditions and market characteristics for investors are weak, is it
+reasonable to assume that a low tax burden can compensate by impacting favourably
+on investment decisions?
+
+Rationale for the question
+Any simple claim that tax incentives are either highly effective or highly ineffective
+could be challenged. Costa Rica, Ireland, Malaysia and Mauritius are habitually cited
+as success stories in attracting investment by lowering tax burdens. What is often
+missing from the discussion of the success of these countries is the reflection on the
+framework conditions and market characteristics that these countries offer in
+addition to tax breaks and generous incentives regimes – namely, stable economic
+and political conditions, a well-educated labour force, good infrastructure, open
+trade for exporters, dependable rule of law and effective investment promotion
+systems.
+To support this point further, ample worldwide evidence suggests that where
+framework conditions or market characteristics are relatively weak, a low tax
+burden has a limited effect on swinging investment decisions in the country’s
+favour. Moreover, where framework conditions are weak, a low host country tax
+burden achieved through the use of special tax incentives may operate to
+discourage rather than encourage investment, by contributing to project cost and
+risk. This is especially the case where the introduction of, and subsequent changes
+to, incentive schemes give the impression of an unstable tax system. Many
+transition economies have had a disappointing experience from their attempts to
+rely on a low tax burden (typically targeted at foreign investment) to boost
+investment.
+The real goal is then to analyse the economic, fiscal, institutional and political
+conditions that a country has to offer in order to understand if the introduction of
+tax incentives has the potential to impact favourably on the investment decisions.
+Given the country’s setting, if and when a lower tax burden is deemed to be
+appropriate and potentially beneficial, further analysis is necessary to design the tax
+incentive programme so it maximises the impact and minimises the costs, i.e.
+encourages investment without forgoing significant tax revenues.
+
+Key considerations
+Despite analysis indicating a limited investment response to a lower tax burden
+relative to revenue losses and administrative costs, tax incentives are routinely
+chosen by governments to attract investment in general, and foreign direct
+
+15
+
+investment (FDI) in particular. Three simple reasons provide the rationale behind
+this widespread practice, particularly in the context of developing countries:
+
+
+it is much easier to provide tax incentives than to correct deficiencies in, for
+example, infrastructure or skilled labour;
+
+
+
+tax incentives do not require an actual expenditure of funds or cash
+subsidies to investors;
+
+
+
+tax incentives are politically easier to provide than public funds.
+
+Further, politicians and policy makers often cite the following two arguments to
+justify their decision to lower tax burdens in order to attract investment.
+
+
+First, domestic savings, especially in emerging and developing countries,
+could be so low that they are insufficient to finance economic expansion.
+Similarly, weak financial intermediation can have a similar effect on
+investment, effectively limiting business resources for investment. In such
+environments, a lower tax burden is thought to attract FDI as a source of
+external finance.
+
+
+
+Second, evidence suggests that investment may generate positive
+externalities – “spillovers” – toward the host economy. Investment can:
+o
+
+act as a trigger for technology and know-how transfers;
+
+o
+
+upgrade workers’ skills and generally support human capital
+formation;
+
+o
+
+assist enterprise development and restructuring, especially in
+connection with privatisation;
+
+o
+
+nurture business clusters and contribute to fuller international
+(trade) integration.
+
+As noted above, the effectiveness of tax incentive measures to impact favourably
+on investment decisions will ultimately depend on the specific country’s situation,
+most notably the macroeconomic framework conditions, its market characteristics
+and the existence of location-specific profits.
+
+Policy practices to scrutinise
+When introducing changes in the tax burden in order to achieve given investment
+goals, policy makers must ensure that the cost of achieving the given investment
+goals – namely, revenue loss – is kept at the lowest feasible level and does not
+exceed the benefits of the implemented policy. As such, thorough analysis of the
+effectiveness of proposed tax provisions should be conducted both prior to the
+introduction of investment-promotion measures as well as systematically ex-post, to
+
+16
+
+assess the extent to which the measures meet their intended objectives. The
+following criteria could help decision makers in distinguishing between beneficial
+and wasteful measures:3
+
+
+Ineffectiveness. The proposed tax burden-reduction measures fail to produce
+benefits to the host economy that exceed the budgetary costs. This
+situation may also arise where authorities applied faulty cost-benefit analysis
+(or no cost-benefit analysis at all) to their incentive programmes or where
+promised benefits do not materialise.
+
+
+
+Inefficiency. This is the case where incentives produce benefits that
+outweigh the costs, but authorities fail to properly maximise the benefits
+and minimise the costs. In other words, similar results might have been
+obtained at a lower cost.
+
+
+
+Opportunity costs. When the resources available to attract investment are
+scarce, the issue of alternative usage of funds arises. Incentive schemes that
+are both effective and efficient may nevertheless be wasteful if the funds
+that are sunk into financing them could have been used more profitably.
+
+
+
+Deadweight loss. This term refers to a situation when:
+
+
+
+o
+
+Investment projects that would have taken place in the absence of
+incentives are subsidised by a generous incentive scheme.
+
+o
+
+The intended recipients of targeted incentives are not adequately
+specified, resulting in spillover to non-target groups.
+
+o
+
+By offering particularly generous incentives to some projects, policy
+makers effectively “raise the bar”, creating a reference point that
+future investors will demand for a similar degree of generosity.
+
+Triggering competition. The long-term costs of an incentive scheme include
+the economic burden that arises if other jurisdictions put in place matching
+measures. This is of particular concern when new measures are introduced
+or the existing measures are significantly augmented. Doing so without
+properly assessing the likely reactions of other jurisdictions can, in many
+cases, amount to a wasteful practice.
+
+While stressing the need for cost-benefit assessments of tax incentives, it must be
+recognised that systematically assessing tax measures is a data-, time- and resourceconsuming process. Often times, policy analysts do not have sufficient data to
+evaluate the overall effects of tax measures. It is therefore highly advisable to
+collect data systematically to support the assessment of the costs of tax
+3. This list of wasteful criteria draws on OECD (2003), Checklist for Foreign Direct Investment
+Incentive Policies, OECD Publishing.
+
+17
+
+expenditures and to monitor the overall effects and effectiveness of individual tax
+incentives.
+
+Resources for further study
+The OECD’s Task Force on Tax and Development has developed a framework for tax
+incentives for investment, whose purpose is to promote transparency in decisionmaking processes, increase the information available on costs and benefits, limit
+discretion and increase accountability. The Principles of Transparency and
+Governance of Tax Incentives for Investment is emerging as an international
+consensus on the governance of investment-related incentives.
+For a detailed discussion on wasteful investment measures and the potential pitfalls
+and risks of excessive reliance on incentive-based strategies, see:
+
+
+OECD (2003), “Checklist for Foreign Direct Investment Incentive Policies”,
+OECD, Paris.
+
+
+
+OECD (2007), Tax Effects on Foreign Direct Investment: Recent Evidence and
+Policy Analysis, Tax Policy Studies, No. 17, OECD Publishing.
+
+
+
+OECD (2007), “Tax Incentives for Investment – A Global Perspective:
+Experiences in MENA and Non-MENA Countries”, OECD, Paris.
+
+
+
+OECD (2003), Tax Policy Assessment and Design in Support of Direct
+Investment: A Study of Countries in South East Europe, OECD Publishing.
+
+
+
+Oman, C. (2000), Policy Competition for Foreign Direct Investment: A Study of
+Competition among Governments to Attract FDI, Development Centre
+Studies, OECD Publishing.
+
+18
+
+Addressing tax distortions to investment
+5.5. Where the tax burden on business income differs by firm size, age of the business
+entity, ownership structure, industrial sector or location, can these differences be
+justified? Is the tax system neutral in its treatment of foreign and domestic investors?
+
+Rationale for the question
+Tax systems may impose a non-uniform effective tax rate on different businesses,
+depending on their size, ownership structure (e.g. domestic versus foreign-owned),
+business activity or location. Certain firms may be specifically targeted to receive
+preferential tax treatment. Tax relief may be provided on a targeted basis to firms
+depending on firm size, sector, industry, location or ownership structure.
+
+
+Size: Tax relief may be targeted, for example, at “small” firms – those with
+income or assets below a threshold value.
+
+
+
+Sector/industry: Tax burden can vary for firms in a specific sector (e.g.
+manufacturing) or more narrowly a specific industry (e.g. automobile
+manufacturing).
+
+
+
+Location: Tax relief may be targeted at firms in a given location, for example
+in a specific province or state, or in a region of the country with high
+unemployment.
+
+
+
+Ownership: The ownership structure of a firm may determine tax relief.
+Concessions (e.g. tax holidays) may be targeted at firms wholly or partially
+owned by foreign (non-resident) shareholders, and may depend on the type
+of financing. For example, some countries target tax relief to “new” equity
+capital.
+
+Key considerations
+In some cases, there might indeed be good reasons for implementing targeted tax
+incentives. The commonly used arguments for unequal treatment of investors
+involve economic and administrative efficiency, and equity.
+Economic efficiency. The standard justification for differential tax treatment on
+efficiency grounds is that tax incentives can correct for market imperfections. These
+“market correction” arguments are based on the assumptions that private investors
+do not take into account the benefits to the larger society of certain types of
+investment, which leads to under-investment. Another line of market failure
+arguments suggests that asymmetric information on markets or products or
+monopoly power of large firms could make entry difficult for SMEs or make it
+difficult for SMEs to raise finance.
+
+19
+
+Administrative efficiency: The administrative argument is that it is often easier for
+government to administer a tax incentives programme than to deliver a similarlytargeted expenditure programme. For example, if a government wants to
+encourage renewable energy development, the tax administration will have an
+advantage over the energy sector government agencies as it already has
+knowledge, systems and experience in administering tax incentive programmes.
+Equity: Some investment incentives have redistributive goals, for example, policies
+aimed at increasing investment and bolstering employment and growth in poorer
+parts of a country. In such cases, assessing the overall distributional impact is quite
+difficult, but targeted location incentives may indeed encourage investment in
+inefficient locations and have positive distributional consequences.
+Where tax relief is targeted, policy makers should examine and weigh arguments in
+favour of and against such treatment, and ensure that the different treatment can
+be properly justified. Where justifications are weak (e.g. where corporate tax relief is
+targeted at foreign investors to the exclusion of domestic investors) consideration
+should be given to a non-targeted approach.
+
+Policy practices to scrutinise4
+Tax burden measures that vary considerably from one investment type to another
+must be explained. Policy makers, therefore, need a clear understanding of the tax
+system’s impact on various investor groups. Analysts also want to know whether
+their targeted investment approach is effective in meeting its intended policy
+objectives (e.g. encourage investment in disadvantaged regions), or otherwise
+efficiency gains may be realised if the system were more neutral in its treatment of
+different investment types. Beyond this, efficient targeting requires accurate
+estimates of the amount of tax revenue foregone in order to compare the realised
+benefit against the costs associated with the targeted incentives.
+Further considerations in targeting tax incentives involve limiting tax relief to
+targeted firms/activities only – for example, to small businesses. Policy makers must
+recognise that all taxpayers will analyse the targeting criteria and attempt to benefit
+from the tax incentive. For example, a non-qualifying (medium or large) firm may
+reorganise itself into two or more new business entities to access tax relief
+conditional on firm size. Similarly, companies will attempt to characterise or recharacterise certain activities so that they fall within the boundaries of qualifying
+business activities, for example, to qualify for R&D tax incentives. Non-qualified
+companies can channel asset purchases through qualifying companies. Likewise,
+qualifying firms in a loss position can sell their balances of unused business losses
+
+4. Draws on OECD (2009), Taxation of SMEs, Key Issues and Policy Considerations, OECD Tax
+Policy Studies, No. 18, OECD Publishing.
+
+20
+
+and tax credits to firms outside the target tax incentive group that are profitable
+and able to use them to reduce their tax liability. Inevitably, the government can
+come under pressure to extend tax incentive relief to taxpayers/activities that were
+not initially targeted.
+Two approaches may be used to inform an assessment of whether tax-driven
+variations across businesses of different size and industrial sector can be justified.
+Backward-looking average tax rates for different investor groups. The first approach
+computes average tax rates for different groups of firms, stratified to correspond to
+targeting investor groups, e.g. firm size, sector, industry, ownership structure,
+location. The analysis could include an assessment on the profits of:
+
+
+SMEs, including enterprises structured in corporate and unincorporated
+form;
+
+
+
+large enterprises majority-owned by residents;
+
+
+
+large multinational enterprises controlled by foreign parent companies.
+
+Forward-looking effective tax rates for different investments. The second approach
+is to measure effective rates (METRs/AETRs) for groups of firms disaggregated by
+size, sector, industry, location, ownership structure, taxable status. Computation of
+effective rates for different domestic investment types – for example, those
+qualifying for targeted tax relief and those who do not – allows one to examine
+distortions to investment decisions introduced by the tax system. In particular, the
+distorting effects of a given tax incentive can be examined by allowing the incentive
+parameter (e.g. corporate tax rate, tax depreciation rate, investment tax credit rate)
+to vary, while holding all other factors fixed.
+Please refer to the discussion under Question 5.2 of this Toolkit for a more detailed
+discussion on tax burden measures.
+
+Resources for further study
+
+
+OECD (2010), Tax Policy Reform and Economic Growth, OECD Tax Policy
+Studies, No. 20, OECD Publishing.
+
+
+
+OECD (2009), Taxation of SMEs, Key Issues and Policy Considerations, OECD
+Tax Policy Studies, No. 18, OECD Publishing.
+
+
+
+OECD (2001), Corporate Tax Incentives for Foreign Direct Investment, OECD
+Tax Policy Studies, No. 4, OECD Publishing.
+
+
+
+OECD (2007), “Taxation and Foreign Direct Investment, Report of Working
+Party No. 2”, OECD, Paris.
+
+21
+
+
+
+OECD (2005), “Incentives and Free Zones in the MENA Region: A Preliminary
+Stocktaking”, document prepared for Working Group 2 of the MENA-OECD
+Investment Programme, OECD, Paris.
+
+
+
+Oman, C. (2000), Policy Competition for Foreign Direct Investment: A Study of
+Competition among Government to Attract FDI, Development Centre Studies,
+OECD Publishing.
+
+22
+
+Determination of taxable income
+5.6. Are rules for the determination of corporate taxable income formulated with
+reference to a benchmark income definition (e.g. comprehensive income), and are the
+main tax provisions generally consistent with international norms?
+
+Rationale for the question
+In dealing with any given corporate tax system, investors expect basic tax
+provisions that adequately reflect business costs, including loss carry-forward
+provisions that are consistent with those commonly employed elsewhere. Investors
+also view negatively the double taxation of income within the corporate sector and
+generally expect zero taxation of, or tax relief on, inter-corporate dividends
+particularly when paid along a corporate chain. In short, policy makers are
+encouraged to ensure that reasonable expectations of the main design features of
+the tax system are recognised.
+
+Key considerations
+As a guide for assessing policy for determining the tax base for business income,
+policy makers are encouraged to consider alternative design options, with regard to
+those applied in other countries. Such references, along with consideration of the
+pros and cons of alternative approaches, are helpful in deciding and defending an
+appropriate set of tax base provisions and avoiding adjustments that could prove
+unsatisfactory when assessed against a balancing of policy goals (e.g. raising
+revenue, providing competitive tax treatment, limiting inefficiency, supporting
+equity and avoiding undue complexity). Policy makers wishing to retain and attract
+investment should be encouraged to explore and address a number of key tax base
+provisions, including depreciation, inventories, business losses, inter-corporate
+dividends, corporate capital gains and losses, and allowances for the cost of
+corporate equity.
+
+Policy practices to scrutinise
+Investors may raise various concerns with respect to tax base rules based on the
+following set of questions:
+
+
+Do tax depreciation methods and rates adequately reflect true economic
+rates of depreciation of broad classes of depreciable property (serving as
+benchmark rates) and account for inflation?
+
+
+
+Are possible time limits on the carrying forward (and possibly back) of
+business losses, to offset taxable income in future (prior) years, sufficiently
+generous/consistent with international norms? The case for generous carry-
+
+23
+
+forward is particularly strong where depreciation claims are mandatory
+rather than discretionary.
+
+
+Are inter-corporate dividends (paid from one resident company to another)
+excluded from corporate taxable income to avoid double/multiple taxation?
+
+
+
+Are domestic dividends paid to resident individuals subject to classical
+treatment or is integration relief provided in respect of corporate tax on
+distributed income (e.g. partial inclusion of dividend income, or imputation
+or dividend tax credit)? Is there evidence that such relief lowers the cost of
+funds for firms? Or is such relief intended to encourage domestic savings?
+Where integration relief is given in respect of distributed profit (dividends),
+is similar relief provided in respect of retained profit (e.g. partial inclusion of
+dividends and capital gains)?
+
+
+
+Where capital gains are subject to tax on a realisation basis, are taxpayers
+allowed a deduction for capital losses (e.g. against corresponding taxable
+capital gains)? Do “recapture” rules apply to draw into taxable income
+excess tax depreciation claims on depreciable property?
+
+
+
+Is the tax treatment of wage income, as well as interest income, dividends
+and capital gains (realised at the personal or corporate level) designed to
+minimise incentives to: i) characterise one form of income as another; and ii)
+choose one organisational form over another (incorporated versus
+unincorporated) for purely tax reasons? In other words, are efforts made to
+minimise tax arbitrage possibilities?
+
+While addressing investors’ concerns, policy makers should be encouraged to:
+
+
+limit windfall gains (i.e. the provision of tax relief that does not achieve the
+desired goals) to investors and, in the case of inbound direct investment,
+foreign treasuries;
+
+
+
+minimise the scope for exploitation by business of the tax system (e.g.
+through tax arbitrage);
+
+
+
+ensure single taxation of income sourced in the host country (e.g. through
+enforcement of domestic tax rules and negotiation of tax treaties);
+
+
+
+keep tax administration costs in check.
+
+24
+
+Resources for further study
+For further discussion on the various policy considerations that drive the
+determination of corporate taxable income and are the main tax provisions, see:
+
+
+OECD (2010), Choosing a Broad Base – Low Rate Approach to Taxation, Tax
+Policy Studies, No. 19, OECD Publishing.
+
+
+
+OECD, “Tax and Economic Growth”, Economics Department Working Paper,
+No. 620, ECO/WKP(2008)28, OECD Publishing.
+
+25
+
+Accounting for unintended tax incentive effects
+5.7. Have targeted tax incentives for investors and others created unintended taxplanning opportunities? Are these opportunities and other problems associated with
+targeted tax incentives evaluated and taken into account in assessing their costeffectiveness?
+
+Rationale for the question
+Unfortunately, tax incentives are all too often viewed as a relatively easy “fix” to
+promote investment. Indeed, a tax incentive holds out the apparent advantage of
+not requiring a cash-equivalent outlay, in contrast with infrastructure development,
+manpower training or other programmes introduced to foster investment. The
+reasoning goes as follows: by targeting tax relief at new investment, a tax incentive
+will only reduce the amount of tax revenue raised on additional investment –
+revenue that would not have been raised anyway in the absence of the incentive.
+This perception misses the fact that tax incentive relief will create unintended and
+unforeseen tax-planning opportunities. To varying degrees, tax incentives will result
+in windfall gains – that is, tax relief to investors that does not result in additional
+investment but supports investment that would have gone ahead in the absence of
+that relief. Even when targeted at new investment, tax incentives will always be
+sought by businesses outside the target group. Existing firms will attempt to
+characterise themselves as “new”, and other similar tax-planning strategies can be
+expected that will deplete tax revenues from activities unrelated to any new
+investment attributable to the tax relief, with lost revenues often significantly
+exceeding the original projections.
+
+Key considerations
+Tax policy features that give rise to unwanted and unintended outcomes might be
+adjusted to curtail negative effects. This question encourages policy makers to
+carefully consider how tax incentives, depending on their type and design, give rise
+to certain unintended and unwelcome results, and what policy changes might be
+considered to counter those unwanted effects.
+Unintended effects
+due to tax policy
+design features
+
+Tax holidays or partial profit exemptions, in particular,
+offer significant scope for tax relief unintended by tax
+authorities. These incentives are typically targeted at
+“new” companies. However, the Aladdin’s lamp
+problem (“new firms for old”) commonly occurs as old
+firms reconstitute as new ones towards the end of their
+
+26
+
+holiday periods, so that they can continue to be taxexempt.
+Further, partial or full profit exemption also opens up
+transfer pricing opportunities to artificially shift taxable
+income from non-qualified business entities to entities
+that do qualify. Similarly, channeling asset purchases
+through qualifying companies on behalf of nonqualifying ones is also common. Aggressive transfer
+pricing techniques essentially involve the use of nonarm’s length prices on intra-group transactions and nonarm’s length interest rates on intra-group loans, to shift
+taxable income to low or non-taxed entities.
+Targeted tax incentives may create unintended
+distortions. For example, investment tax credits could be
+abused through “churning” of qualified assets. They
+also distort investor choice towards short-lived assets.
+Similarly, reinvestment allowances would tend to
+discourage investment financed by new equity and may
+raise the overall cost of funds, implying welfare losses.
+Unintended
+interactions of
+multiple tax
+provisions
+
+Unintended distortions may also be created where
+interactions between tax incentives and other
+provisions of the tax code (e.g. depreciation treatment,
+loss treatment) are not adequately addressed. Further,
+if not properly co-ordinated, “stacking” of multiple tax
+incentives offered by different ministries at the same
+level or by different levels of government could occur,
+creating unintended distortions, including possible overinvestment.
+
+Unwanted
+encouragement of
+corrupt practices
+
+Tax incentives may also encourage corruption and
+aggravate concerns raised by poor public governance.
+When used, targeted tax incentives should be designed
+to be as automatic as possible in their application, to
+avoid the involvement of tax officials in the
+determination of the application of provisions to
+individual taxpayers. Also to be avoided are situations
+where tax officials undertaking audits have the power to
+withdraw tax incentive relief, without special safeguards
+against corrupt practices. Frameworks should be in
+place to discourage bribery of tax and customs officials
+in such cases.
+
+27
+
+Policy practices to scrutinise
+Various forms of targeted tax relief may create unintended scope for tax planning,
+and result in revenue losses well in excess of the levels originally anticipated (e.g.
+where the relief spills over to benefit non-targeted taxpayer groups). It should be
+noted, however, that when a previously unforeseen tax-planning opportunity for an
+existing tax incentive becomes apparent, it is not without cost for the government
+to withdraw the incentive. While cancelling incentive relief for future investment
+may be accepted by investors, cancelling relief tied to prior investment decisions –
+that may have been based on the expectation of tax incentives previously on offer –
+can carry a significant cost. In particular, policy credibility is seriously undermined,
+weakening government’s ability to influence investment behaviour in the future
+through policy adjustment. Given this, where tax incentive relief linked to
+investment expenditure (e.g. enhanced or accelerated depreciation, investment tax
+credit) is cancelled, tax relief tied to prior investment generally should be respected
+– unless the costs are so exorbitant that respecting past commitments would be
+devastating to public finances.
+Within the context of a general policy goal to avoid windfall gains (and losses),
+transitional considerations related to the introduction and removal of tax incentives
+should be addressed. Where tax relief is provided, a general aim is to target tax
+relief to incremental investment, that is, investment that would not have occurred
+in the absence of the incentive. Conversely, where tax relief is withdrawn, it is
+important to attempt to ensure that past investments are not penalised.
+
+Resources for further study
+For further reading on unintended tax-planning opportunities and policy
+choices/considerations to address unintended tax revenue impacts of targeted tax
+incentives, see:
+
+
+OECD (2001), Corporate Tax Incentives for Foreign Direct Investment, OECD
+Tax Policy Studies, No. 4, OECD Publishing.
+
+
+
+OECD (2011), Corporate Loss Utilization through Aggressive Tax Planning,
+OECD Publishing.
+
+
+
+See also OECD (2011), Tackling Aggressive Tax Planning through Improved
+Transparency and Disclosure, OECD Publishing.
+
+28
+
+Tax expenditure reporting
+5.8. Are tax expenditure accounts reported and sunset clauses used to inform and
+manage the budget process?
+
+Rationale for the question
+Tax expenditure analysis and reporting are a cornerstone of fiscal policy in countries
+where attracting capital and addressing public governance issues remain high on
+the political agenda. The primary purpose of the tax expenditure analysis is to
+identify the “cost” of preferential tax provisions – revenue losses associated with
+tax incentives and other departures from a “benchmark” tax system. The amount of
+revenue loss attributable to tax incentives should be reported regularly, ideally as
+part of an annual budget process (covering all of the main tax incentives).
+Further, like all forms of public spending, tax incentives targeted at investment
+should be assessed for their effectiveness. The assessment should be conducted
+both in advance and following the implementation, to gauge whether a preferential
+tax measure passes or fails a cost-benefit test. To enable such evaluations, the
+specific goals of a given tax incentive need to be made explicit at the outset to
+enable a proper assessment of the degree to which stated goals are met. When
+introducing tax incentive legislation, “sunset clauses” should also be included calling
+for the expiry of the incentive (e.g. three years after implementation). An
+assessment of the effectiveness of a given tax provision will establish whether the
+incentive should be extended or not.
+
+Key considerations
+There are several powerful reasons for policy makers to analyse, document and
+track their tax expenditures.
+
+
+Input to cost-benefit analysis. Most importantly, tax expenditure reporting
+serves as input to cost-benefit assessment of tax incentives. As such, it
+allows policy makers to initiate steps in containing tax expenditure costs by
+supporting decision making on which tax incentives to keep and which ones
+to let go.
+
+
+
+Accountability. Publicly available tax expenditure estimates increase public
+knowledge of government activities and objectives and permit the
+legislature and civil society organisations to scrutinise and hold government
+accountable for all aspects of its budget. Furthermore, it allows the public to
+more easily track and assess changes in government policy.
+
+
+
+Equity. Since the benefits of a tax expenditure are directly related to both
+the tax status of the potential investors and to other provisions in the tax
+
+29
+
+code, their effect is frequently uneven. Tax expenditure quantification helps
+to focus attention on the structure of a tax system and asks the question
+“what system is most equitable and efficient?” It thereby forces the
+question as to whether each of the various deviations is justifiable.
+
+
+Efficiency. Tax expenditure estimates permit a comparison of the indirect
+costs of programmes with alternative means of achieving similar objectives.
+These alternatives may be either direct expenditures or other tax
+expenditures.
+
+Policy practices to scrutinise
+Several issues need to be scrutinised to fully assess a host country’s tax expenditure
+analysis and reporting practices. The OECD’s Principles of Transparency and
+Governance of Tax Incentives for Investment serve as a good framework for the
+management issues of investment-related incentives.
+Defining a
+“benchmark” tax
+structure
+
+To estimate tax expenditures, the “benchmark” tax
+structure which contains no preferential tax treatments
+needs to be established. Tax expenditures are then
+defined as deviations from this benchmark tax system. It
+is important to recognise that reasonable differences of
+opinion exist as to the definition of the benchmark tax
+system, and hence what constitutes a tax expenditure.
+Labelling a provision as a tax expenditure presupposes
+that there is a “normal” tax structure. However, a
+normal tax structure is not a fixed concept. For all of
+their detail, there are no fully defined and accepted
+concepts of taxable income or taxable transactions.
+Policy analysts should be aware that cross-country
+comparison of tax expenditures might not be valid due
+to acceptance of arbitrary definitions and conventions.
+Similarly, in-country revisions of methodology and the
+“benchmark” can result in substantial changes to the
+reported values of tax expenditure over time and make
+year-to-year comparisons of tax expenditures invalid.
+
+Identifying redundant
+vs. additional tax
+expenditures
+
+Policy analysis should attempt to distinguish between
+redundant versus additional tax expenditures. If the
+investment would not have been made in the absence
+of tax incentives, the direct revenue loss is effectively
+zero (tax expenditure is “additional”). On the other
+hand, if incentives have no effect on investment, then
+the entire forgone tax revenue constitutes a revenue
+
+30
+
+loss (tax expenditure is “redundant”). The true amount
+of direct revenue losses is likely to be between these
+two extremes.
+Estimating tax
+expenditures
+
+A range of methodologies exists internationally to
+estimate tax expenditures:
+The Revenue forgone method is an ex post quantification
+of the extent to which a provision reduces revenues.
+Taxpayer behaviour is accepted as given and impacts
+resulting from other investment and consumption
+patterns or decisions regarding other tax expenditures
+are excluded from the estimates.
+Revenue gain method is an ex-ante estimate of the total
+expected budgetary effect of the expenditure, taking
+into account the impact of changes in taxpayer
+behaviour and inter-relationships of tax provisions.
+Outlay equivalent method estimates the outlay that the
+government would need to expend in order to provide
+the beneficiaries with the same after-tax economic
+benefits that they receive from tax expenditures as
+measured by the revenue forgone method. This method
+takes into account the fact that taxpayers must often
+pay income taxes on the direct government benefits
+they receive. As a result, the equivalent outlay estimates
+are generally larger in order to account for the portion
+of benefits that recipients must pay back in taxes.
+In practice, the revenue forgone method is primarily
+used. Outlay equivalent and revenue gain estimates can
+be quite useful for specific policy analysis, but their
+estimation is much more complex than for revenue
+forgone. Policy analysts need to be aware of the
+drawback of the revenue forgone method. As a
+consequence of the all-else-equal nature of revenue
+forgone estimates, they are not additive. Many tax
+expenditures interact with each other; therefore, a
+simple sum of individual tax expenditures is not a
+precise reflection of the overall tax expenditure of the
+system. Eliminating a particular tax measure will not
+translate into an equivalent amount of revenue gain as
+the tax expenditure estimate indicates.
+
+31
+
+Accounting for the
+indirect costs of tax
+incentives
+
+Often ignored, the indirect costs of tax incentives,
+including the administrative costs from running them,
+could be quite substantial. To present a full picture of
+their costs, policy analysts should attempt to quantify
+the indirect costs and include them in the total tax
+expenditure reporting.
+
+Conducting periodic
+review of tax
+incentives
+
+Once they are granted, tax incentives usually remain in
+laws unless they are revoked or introduced with a
+“sunset clause”. Hence, there is a need to assess
+performance on a regular basis. Performance reviews
+should include the costs as well as the benefits of the
+tax incentive and if it has met its intended goals. The
+results of such periodic reviews would inform decision
+making around the continuation or removal of individual
+tax incentives. The review criteria and results should be
+reported publicly. To the extent possible, behavioural
+responses, both positive (e.g. additional incremental
+investment) and negative (e.g. aggressive tax planning)
+should be tracked and communicated.
+
+Reporting the
+principal beneficiaries
+of tax incentives
+
+The principal beneficiaries of tax incentives for
+investment by specific tax provision should be included
+in the regular statements of tax expenditures. It may be
+possible that a few investors, or sectors, benefit from
+most tax expenditures. The tax expenditure statement
+should have sufficient detail to enable policy makers to
+identify which sectors benefit from specific tax
+provisions. Where compatible with the requirement of
+laws and regulations governing taxpayer confidentiality,
+authorities may wish to consider detailing the main
+beneficiaries and the amount by which they benefit
+from tax incentives. Making such information public can
+enhance the legitimacy of governments and their
+revenue authorities in the eyes of citizens which, in turn,
+can enhance compliance more broadly.
+
+32
+
+Resources for further study
+For further reading on a variety of tax expenditure issues, including tax expenditure
+estimation techniques and methods to evaluate their effectiveness, see:
+
+
+OECD, The Principles of Transparency and Governance of Tax Incentives for
+Investment, Task Force on Tax and Development, OECD, Paris.
+
+
+
+Caiumi, A. (2011), “The Evaluation of the Effectiveness of Tax Expenditures –
+A Novel Approach: An Application to the Regional Tax Incentives for
+Business Investments in Italy”, Taxation Working Papers, No. 5, OECD
+Publishing.
+
+
+
+OECD (2010), Tax Expenditures in OECD Countries, OECD Publishing.
+
+
+
+Kraan, D.J. (2004), “Off-budget and Tax Expenditures”, OECD Journal on
+Budgeting, Vol. 4/1, OECD Publishing.
+
+33
+
+International tax co-operation
+5.9. Are tax policy and tax administration officials working with their counterparts in
+other countries to expand their tax treaty network and to counter abusive crossborder tax planning strategies?
+
+Rationale for the question
+Tax treaties aim to improve the certainty of cross-border projects and lower the
+costs and risks of international investment. A wide tax treaty network is helpful to
+countries seeking to attract investment in several ways:
+
+
+Most importantly, tax treaties operate to avoid double taxation of crossborder investment returns.
+
+
+
+Treaties reduce investor uncertainty over tax treatment by establishing
+procedures to help resolve disputes over the allocation of taxing rights
+between host and home countries.
+
+
+
+Tax treaties usually seek to stipulate lower non-resident withholding tax
+rates on dividends, interest and royalties.
+
+
+
+Often, treaties limit tax paid in the home (resident) country to that of the
+host country.
+
+Further, tax treaties bring clarity into cross-broader dealings by providing a
+framework to exchange information among tax authorities to counter more
+aggressive forms of tax planning.
+
+Key considerations
+Tax treaties generally reduce the uncertainty and cost of international investment;
+they achieve this in several major ways.
+Avoid double taxation
+
+First, and perhaps foremost, tax treaties operate to
+avoid double taxation of cross-border investment
+returns. In the absence of a tax treaty between a host
+and home country, double taxation of returns will
+normally arise where the two countries treat a given tax
+return differently. For example, countries may take
+different views on the source or origin of income, or the
+type of income paid (e.g. interest versus dividends), with
+different characterisations triggering different tax
+treatment. Tax treaties operate to avoid these different
+characterisations and thereby minimise the scope for
+double taxation.
+
+34
+
+Reduce investor
+uncertainty
+
+Tax treaties help reduce investor uncertainty over tax
+treatment. Indeed, certain articles of tax treaties are
+specifically aimed at establishing procedures to help
+resolve disputes over the allocation of taxing rights
+between host and home countries. A wide tax treaty
+network therefore tends to make countries more
+attractive, in relation to tax considerations, both as
+locations for business activity and as places from which
+to conduct global business operations, by lowering
+project costs as well as project risks.
+
+Lower non-resident
+tax
+
+Tax treaties generally stipulate lower non-resident
+withholding tax rates on dividends, interest and
+royalties. Indeed, treaty-negotiated rates are often
+significantly lower than statutory withholding tax rates
+that would otherwise apply. This aspect of tax treaties
+also serves to lower project costs.
+
+Enable the exchange
+of information
+amongst tax
+authorities
+
+Tax treaties provide a framework to enable the
+exchange of information amongst tax authorities to
+counter more aggressive forms of tax planning in
+relation to foreign source income as well as domestic
+source income (that may be stripped out to tax havens
+through the use of special corporate structures and
+financing and repatriation strategies).
+
+Policy practices to scrutinise
+Number of tax treaty partners. An assessment of the scope of a country’s tax treaty
+framework requires consideration of the specific countries that are its treaty
+partners. A long list generally implies broad access to investors, particularly where a
+number of the partners are large capital-exporting countries. However, the scope of
+a host country’s tax treaty network cannot be assessed by a simple count of the
+number of its tax treaty partners. While a large number of treaty partners may
+signal a large pool of potential investors, it is not necessarily the case that a small
+number of treaty partners signals the opposite. Treaties with certain countries
+(e.g. Belgium, the Netherlands, the United Kingdom) that are attractive conduit
+locations for routing investment may provide the host country with access to
+investors in a large number of countries – in particular, to countries that have a tax
+treaty with one or more of these countries as hosts to intermediate financing
+services.
+
+35
+
+Tax treaty negotiation dates. Similarly, the scope of a host country’s tax treaty
+network in reaching investors cannot be assessed by reference to the dates on
+which its tax treaties were negotiated or renegotiated. When a treaty was brought
+into force many years ago, the conclusion cannot be drawn that it does not provide
+benefits that are less (or more) attractive than a relatively new treaty.
+Level of non-resident withholding taxes. One of the central benefits tax treaties
+provide to investors is the reduction to non-resident withholding tax rates on
+payments used to repatriate earnings – dividends, interest and royalties. Therefore,
+an important consideration is the level of non-resident withholding tax rates
+negotiated with key tax treaty partners. To guide the assessment of tax treaties, the
+table below suggests withholding tax rates that would generally be regarded as
+attractive by investors.
+
+Payment type
+
+Treaty withholding tax rate
+
+Interest
+
+10%
+
+Direct dividends
+
+5%
+
+Portfolio dividends
+
+15%
+
+Royalties
+
+10%
+
+Resources for further study
+
+
+The OECD has proposed a model treaty to use as a starting point in
+international treaty negotiations. The OECD Model Convention on Income
+and on Capital provides a means for settling (on a uniform basis) the most
+common problems that arise in the field of international exchange of goods
+and services and cross-border movements of capital, technology and
+persons.
+
+36
+
+Annex 5.1. Methodology for calculating the METR
+The methodology for estimating marginal effective tax rates (METRs) is extensively
+documented.5 We follow the discussion in Chen and Mintz (2008).6
+The standard theory of investment defines the METR as:
+METR =
+
+rG – rN
+rG
+
+where rG is the pre-tax rate of return (at the margin) required by an investor and rN is
+the after-tax rate of the return (at the margin).
+The after-tax rate of return, rN, is defined by the formula:
+rN = βi + (1 − β)ρ − π
+where β is the debt-to-assets ratio, i is the nominal interest rate on debt finance, ρ is
+the nominal required rate of return on equity and π is the inflation rate.
+One of the main components of the pre-tax rate of return, rG, is the real cost of
+funds, rf, defined as:
+rf = βi (1 − Uj) + (1 − β)ρ − π
+where Uj is the statutory corporate income tax rate of sector j.
+Next, rG is defined for four classes of assets: building, machinery, land and inventory.
+
+5. See, for example:
+ OECD (1995), Taxation and Foreign Direct Investment: The Experience of the
+Economies in Transition, OECD Publishing.
+
+
+McKenzie, K.J., M. Mansour and A. Brûlé (1998), “The Calculation of Marginal
+Effective Tax Rates”, Working Paper, Vol. 97, No. 15, Technical Committee on
+Business Taxation, Department of Finance, Canada.
+
+
+
+Mintz, Jack M. (1995), “Tax Holidays and Investment”, in Shah, A. (ed.), Fiscal
+Incentives for Investment and Innovation, pp. 165-194, Oxford University Press, New
+York.
+
+6. Chen, D. and J. Mintz (2008), “Taxing Business Investment: A New Ranking of Effective
+Tax Rates on Capital”, prepared for the Foreign Investment Advisory Service of the
+World Bank.
+
+37
+
+Depreciable assets: Building and machinery. For depreciable assets, rG is estimated as:
+1–A+
+rG = (1 + µ) (rf + δ) (1 – k) (
+
+ct (1 – U)
+(rf + π + α)
+
+(1 – U) (1 – tp – tg)
+
+)–δ
+
+where µ is the non-creditable transaction tax (such as import duty and sales tax) on
+capital goods; δ is the economic depreciation rate; k is the investment tax credit
+rate; A is the present value of future tax savings from depreciation allowances,
+defined below for various depreciation schedules, ct is the capital tax rate, α is the
+tax depreciation rate, tp is the property tax rate and tg is the gross receipts tax rate
+or presumptive tax that is based on the gross revenue.
+Land. For land, rG is defined by:
+1+
+rG = rf (1 + µ)
+
+ct (1 – U)
+(rf + π)
+
+(1 – U) (1 – tp – tg)
+
+where µ is the property transfer tax.
+Inventory. For inventory, rG is defined as:
+rG = (1 + µ)
+
+(rf + Uπζ)
+(1 – U) (1 – tg)
+
++ ct
+
+where µ is the sales tax on raw materials (when applicable); and ζ = 1 for the FIFO
+accounting method, 0 for the LIFO method and 0.5 for the average cost method.
+
+The expression for A (the present value of future tax savings from depreciation
+allowances) for a declining-balance depreciation schedule is defined as:
+A=
+
+Uα
+α + rf + π
+
+The expression for A in case of a straight-line depreciation schedule:
+A=
+
+U (1 – e –( rf + π)L)
+(rf + π)L
+
+where L is the lifetime for each depreciable asset, with the asset depreciated at the
+rate 1/L in each year.
+The expression for A when a portion γ of an asset can be immediately expensed,
+with the remaining (1 – γ) depreciated under a declining-balance depreciation
+schedule is defined as:
+
+38
+
+(rf + π) γ + α
+α + rf + π
+
+A =U
+
+The METR for a given industry is the proportional difference between the weighted
+average of the before-tax rate of return by asset type and the after-tax rate of
+return; the latter is the same across asset types within a given sector. That is, the
+METR for industry i (ti), is calculated as follows:
+∑j rgij wij – rni
+∑j rgij wij
+
+ti =
+
+where j denotes the asset type (that is, investments in buildings, machinery,
+inventories and land) and wij denotes the weight of asset j in industry i.
+
+Annex 5.2. Methodology for calculating the AETR
+The methodology for estimating average effective tax rates (AETRs) has been
+developed by Devereux and Griffith.7 We present here only the final formulas for the
+calculations; please see the original publication for the detailed methodology notes.
+The AETR is calculated as:
+AETR =
+
+p–r
+P
+
+–
+
+γ (1 + r)(p + δ)(1 + π)(1 – τ)
+p (1 + ρ)
+
++
+
+γ (1 + A)(1 + r)
+p
+
+(1 –
+
+(1 – δ)(1 + π)
+1+ρ
+
+with the variables and their definitions as presented below:
+Variables
+
+Definition
+
+p
+
+pre-tax net profit
+
+r
+
+real interest rate
+
+γ = (1−md)/ (1− z)
+
+factor measuring the difference in treatment of new equity and
+distributions
+
+md
+
+personal tax on dividends
+
+z
+
+tax on capital gains
+
+ρ = (1−mi)i
+
+investor’s discount rate
+
+mi
+
+personal tax rate on interest
+
+7. See Devereux, Michael P. and Rachel Griffith (2003), “Evaluating Tax Policy for Location
+Decisions”, CEPR Discussion Paper Series, No. 3 247, Centre for Economic Policy Research.
+
+39
+
+)–
+
+F (1 + r)
+P
+
+i
+
+nominal interest rate
+
+τ
+
+corporate tax rate
+
+δ
+
+economic depreciation rate
+
+π
+
+inflation
+present discounted value of depreciation allowances, which can be
+calculated for any depreciation scheme.
+
+A
+
+A = τϕ
+A=
+
+ϕ
+
+1+ρ
+ρ+ϕ
+τϕ (1 + ρ)
+Ρ
+
+(1 – (
+
+1
+1+ρ
+
+depreciation allowance
+Financial effects
+F=0
+
+F
+
+)1/ρ)
+
+for
+declining
+balance
+depreciation
+in case of straightline depreciation
+
+FNE =
+
+– ρ (1 – γ)
+1+ρ
+
+FD =
+
+γ (1 – ϕτ)
+(ρ – i (1 – τ))
+1+ρ
+
+(1 – ϕτ)
+
+in
+case
+of
+financing
+by
+retained earnings
+in
+case
+of
+financing by new
+equity
+in
+case
+of
+financing by debt
+
+40
+
+
